@@ -1,0 +1,4 @@
+name: HConfigurationPlugin
+version: '${version}'
+main: com.axeelheaven.configuration.HConfigurationPlugin
+api-version: '1.13'
